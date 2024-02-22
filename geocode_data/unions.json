@@ -1,0 +1,2342 @@
+[
+  {
+    "geo_code": "Union/ Ward",
+    "name": "Name"
+  },
+  {
+    "geo_code": 17,
+    "name": "BARAI PARA"
+  },
+  {
+    "geo_code": 25,
+    "name": "BEMARTA"
+  },
+  {
+    "geo_code": 34,
+    "name": "BISHNUPUR"
+  },
+  {
+    "geo_code": 35,
+    "name": "DEMA"
+  },
+  {
+    "geo_code": 51,
+    "name": "GOTA PARA"
+  },
+  {
+    "geo_code": 60,
+    "name": "JATRAPUR"
+  },
+  {
+    "geo_code": 69,
+    "name": "KARA PARA"
+  },
+  {
+    "geo_code": 77,
+    "name": "KHANPUR"
+  },
+  {
+    "geo_code": 86,
+    "name": "RAKHALGACHHI"
+  },
+  {
+    "geo_code": 94,
+    "name": "SHAT GAMBUJ"
+  },
+  {
+    "geo_code": 15,
+    "name": "CHAR BANIARI"
+  },
+  {
+    "geo_code": 19,
+    "name": "BARA BARIA"
+  },
+  {
+    "geo_code": 31,
+    "name": "CHITALMARI"
+  },
+  {
+    "geo_code": 47,
+    "name": "HIZLA"
+  },
+  {
+    "geo_code": 63,
+    "name": "SANTOSHPUR"
+  },
+  {
+    "geo_code": 66,
+    "name": "KALATALA"
+  },
+  {
+    "geo_code": 79,
+    "name": "SHIBPUR"
+  },
+  {
+    "geo_code": 10,
+    "name": "BAHIRDIA MANSA"
+  },
+  {
+    "geo_code": 21,
+    "name": "BETAGA"
+  },
+  {
+    "geo_code": 31,
+    "name": "FAKIRHAT"
+  },
+  {
+    "geo_code": 42,
+    "name": "LAKHPUR"
+  },
+  {
+    "geo_code": 52,
+    "name": "MULGHAR"
+  },
+  {
+    "geo_code": 63,
+    "name": "NALDHA MAUBHOG"
+  },
+  {
+    "geo_code": 73,
+    "name": "PILJANGA"
+  },
+  {
+    "geo_code": 84,
+    "name": "SUBHADIA"
+  },
+  {
+    "geo_code": 15,
+    "name": "BADHAL"
+  },
+  {
+    "geo_code": 28,
+    "name": "DHOPAKHALI"
+  },
+  {
+    "geo_code": 38,
+    "name": "GAZALIA"
+  },
+  {
+    "geo_code": 47,
+    "name": "GOPALPUR"
+  },
+  {
+    "geo_code": 57,
+    "name": "KACHUA"
+  },
+  {
+    "geo_code": 66,
+    "name": "MAGHIA"
+  },
+  {
+    "geo_code": 76,
+    "name": "RARI PARA"
+  },
+  {
+    "geo_code": 17,
+    "name": "ATJURI"
+  },
+  {
+    "geo_code": 28,
+    "name": "CHUNKHOLA"
+  },
+  {
+    "geo_code": 38,
+    "name": "GANGNI"
+  },
+  {
+    "geo_code": 47,
+    "name": "GAOLA"
+  },
+  {
+    "geo_code": 76,
+    "name": "KODALIA"
+  },
+  {
+    "geo_code": 85,
+    "name": "KULIA"
+  },
+  {
+    "geo_code": 95,
+    "name": "UDAYPUR"
+  },
+  {
+    "geo_code": 23,
+    "name": "CHANDPI"
+  },
+  {
+    "geo_code": 27,
+    "name": "BURIRDANGA"
+  },
+  {
+    "geo_code": 29,
+    "name": "CHILA"
+  },
+  {
+    "geo_code": 59,
+    "name": "MITHAKHALI"
+  },
+  {
+    "geo_code": 83,
+    "name": "SUNILTALA"
+  },
+  {
+    "geo_code": 89,
+    "name": "SUNDARBAN"
+  },
+  {
+    "geo_code": 97,
+    "name": "CHANDPAI RANGE"
+  },
+  {
+    "geo_code": 10,
+    "name": "BAHARBUNIA"
+  },
+  {
+    "geo_code": 11,
+    "name": "BALAIBUNIA"
+  },
+  {
+    "geo_code": 17,
+    "name": "BANAGRAM"
+  },
+  {
+    "geo_code": 23,
+    "name": "BARAIKHALI"
+  },
+  {
+    "geo_code": 29,
+    "name": "CHINGRAKHALI"
+  },
+  {
+    "geo_code": 35,
+    "name": "DAIBAGNYAHATI"
+  },
+  {
+    "geo_code": 41,
+    "name": "HOGLABUNIA"
+  },
+  {
+    "geo_code": 47,
+    "name": "HOGLA PASHA"
+  },
+  {
+    "geo_code": 53,
+    "name": "JIUDHARA"
+  },
+  {
+    "geo_code": 59,
+    "name": "KHUOLIA"
+  },
+  {
+    "geo_code": 65,
+    "name": "MORRELGANJ"
+  },
+  {
+    "geo_code": 71,
+    "name": "NISHANBARIA"
+  },
+  {
+    "geo_code": 77,
+    "name": "PANCHAKARAN"
+  },
+  {
+    "geo_code": 83,
+    "name": "PUTIKHALI"
+  },
+  {
+    "geo_code": 89,
+    "name": "RAMCHANDRAPUR"
+  },
+  {
+    "geo_code": 95,
+    "name": "TELIGATI"
+  },
+  {
+    "geo_code": 10,
+    "name": "BAINTALA"
+  },
+  {
+    "geo_code": 11,
+    "name": "BANSHTALI"
+  },
+  {
+    "geo_code": 17,
+    "name": "BHOJPATIA"
+  },
+  {
+    "geo_code": 41,
+    "name": "GAURAMBHA"
+  },
+  {
+    "geo_code": 47,
+    "name": "HURKA"
+  },
+  {
+    "geo_code": 53,
+    "name": "MALLIKER BER"
+  },
+  {
+    "geo_code": 71,
+    "name": "PERIKHALI"
+  },
+  {
+    "geo_code": 77,
+    "name": "RAJNAGAR"
+  },
+  {
+    "geo_code": 83,
+    "name": "RAMPAL"
+  },
+  {
+    "geo_code": 94,
+    "name": "UJALKUR"
+  },
+  {
+    "geo_code": 19,
+    "name": "DHANSAGAR"
+  },
+  {
+    "geo_code": 38,
+    "name": "KHONTAKATA"
+  },
+  {
+    "geo_code": 57,
+    "name": "ROYENDA"
+  },
+  {
+    "geo_code": 76,
+    "name": "DAKHIN KHALI"
+  },
+  {
+    "geo_code": 97,
+    "name": "SHARANKHOLA RANGE"
+  },
+  {
+    "geo_code": 11,
+    "name": "AILHAS"
+  },
+  {
+    "geo_code": 13,
+    "name": "BELGACHHI"
+  },
+  {
+    "geo_code": 15,
+    "name": "BARADI"
+  },
+  {
+    "geo_code": 23,
+    "name": "BHANGABARIA"
+  },
+  {
+    "geo_code": 27,
+    "name": "CHITLA"
+  },
+  {
+    "geo_code": 31,
+    "name": "DAUKI"
+  },
+  {
+    "geo_code": 39,
+    "name": "GANGNI"
+  },
+  {
+    "geo_code": 47,
+    "name": "HARDI"
+  },
+  {
+    "geo_code": 51,
+    "name": "KALIDASHPUR"
+  },
+  {
+    "geo_code": 55,
+    "name": "JAMJAMI"
+  },
+  {
+    "geo_code": 63,
+    "name": "JEHALA"
+  },
+  {
+    "geo_code": 71,
+    "name": "KHADIMPUR"
+  },
+  {
+    "geo_code": 79,
+    "name": "KHASKARA"
+  },
+  {
+    "geo_code": 87,
+    "name": "KUMARI"
+  },
+  {
+    "geo_code": 94,
+    "name": "NAGDAHA"
+  },
+  {
+    "geo_code": 11,
+    "name": "ALOKDIA"
+  },
+  {
+    "geo_code": 23,
+    "name": "BEGAMPUR"
+  },
+  {
+    "geo_code": 47,
+    "name": "KUTUBPUR"
+  },
+  {
+    "geo_code": 59,
+    "name": "MOMINPUR"
+  },
+  {
+    "geo_code": 62,
+    "name": "PADMABILA"
+  },
+  {
+    "geo_code": 71,
+    "name": "SHANKAR CHANDRA"
+  },
+  {
+    "geo_code": 83,
+    "name": "TITUDAHA"
+  },
+  {
+    "geo_code": 11,
+    "name": "DAMURHUDA"
+  },
+  {
+    "geo_code": 23,
+    "name": "PERKRISHNAPUR MADNA"
+  },
+  {
+    "geo_code": 35,
+    "name": "HOWLI"
+  },
+  {
+    "geo_code": 47,
+    "name": "JURANPUR"
+  },
+  {
+    "geo_code": 59,
+    "name": "KAPASADANGA"
+  },
+  {
+    "geo_code": 71,
+    "name": "KURALGACHHI"
+  },
+  {
+    "geo_code": 83,
+    "name": "NATIPOTA"
+  },
+  {
+    "geo_code": 88,
+    "name": "NATODAHA"
+  },
+  {
+    "geo_code": 19,
+    "name": "ANDULBARIA"
+  },
+  {
+    "geo_code": 38,
+    "name": "BANKA"
+  },
+  {
+    "geo_code": 42,
+    "name": "HASADAH"
+  },
+  {
+    "geo_code": 50,
+    "name": "ROYPUR"
+  },
+  {
+    "geo_code": 57,
+    "name": "SIMANTA"
+  },
+  {
+    "geo_code": 76,
+    "name": "UTHALI"
+  },
+  {
+    "geo_code": 10,
+    "name": "BAGHUTIA"
+  },
+  {
+    "geo_code": 21,
+    "name": "PRAMBAG"
+  },
+  {
+    "geo_code": 27,
+    "name": "SUNDOLI"
+  },
+  {
+    "geo_code": 42,
+    "name": "PAYRA"
+  },
+  {
+    "geo_code": 52,
+    "name": "CHALISHIA"
+  },
+  {
+    "geo_code": 63,
+    "name": "SIDDHIPASHA"
+  },
+  {
+    "geo_code": 73,
+    "name": "SREEDHARPUR"
+  },
+  {
+    "geo_code": 84,
+    "name": "SUBHA PARA"
+  },
+  {
+    "geo_code": 15,
+    "name": "BASUARI"
+  },
+  {
+    "geo_code": 19,
+    "name": "BANDABILLA"
+  },
+  {
+    "geo_code": 28,
+    "name": "DARAJHAT"
+  },
+  {
+    "geo_code": 38,
+    "name": "DHALGRAM"
+  },
+  {
+    "geo_code": 47,
+    "name": "DOHAKULA"
+  },
+  {
+    "geo_code": 57,
+    "name": "JAMDIA"
+  },
+  {
+    "geo_code": 66,
+    "name": "JAHARPUR"
+  },
+  {
+    "geo_code": 76,
+    "name": "NARIKELBARIA"
+  },
+  {
+    "geo_code": 85,
+    "name": "ROYPUR"
+  },
+  {
+    "geo_code": 14,
+    "name": "CHAUGACHHA"
+  },
+  {
+    "geo_code": 17,
+    "name": "DHULIANI"
+  },
+  {
+    "geo_code": 25,
+    "name": "HAKIMPUR"
+  },
+  {
+    "geo_code": 34,
+    "name": "JAGADISHPUR"
+  },
+  {
+    "geo_code": 43,
+    "name": "SWARUPDAHA"
+  },
+  {
+    "geo_code": 51,
+    "name": "NARAYANPUR"
+  },
+  {
+    "geo_code": 60,
+    "name": "PASHAPOLE"
+  },
+  {
+    "geo_code": 69,
+    "name": "PATIBILA"
+  },
+  {
+    "geo_code": 77,
+    "name": "PHULSARA"
+  },
+  {
+    "geo_code": 86,
+    "name": "SINGHAJHULI"
+  },
+  {
+    "geo_code": 94,
+    "name": "SUKPUKHURIA"
+  },
+  {
+    "geo_code": 25,
+    "name": "BANKRA UNION"
+  },
+  {
+    "geo_code": 29,
+    "name": "GANGANANDAPUR"
+  },
+  {
+    "geo_code": 35,
+    "name": "GADKHALI"
+  },
+  {
+    "geo_code": 41,
+    "name": "HAJIRBAGH"
+  },
+  {
+    "geo_code": 47,
+    "name": "JHIKARGACHHA"
+  },
+  {
+    "geo_code": 53,
+    "name": "MAGURA"
+  },
+  {
+    "geo_code": 59,
+    "name": "NABHARAN"
+  },
+  {
+    "geo_code": 65,
+    "name": "NIBASKHOLA"
+  },
+  {
+    "geo_code": 71,
+    "name": "PANISARA"
+  },
+  {
+    "geo_code": 83,
+    "name": "SHANKARPUR"
+  },
+  {
+    "geo_code": 89,
+    "name": "SHIMULIA"
+  },
+  {
+    "geo_code": 17,
+    "name": "BIDYANANDAKATI"
+  },
+  {
+    "geo_code": 19,
+    "name": "GAURIGHONA"
+  },
+  {
+    "geo_code": 24,
+    "name": "HASANPUR"
+  },
+  {
+    "geo_code": 28,
+    "name": "KESHABPUR"
+  },
+  {
+    "geo_code": 38,
+    "name": "MAJIDPUR"
+  },
+  {
+    "geo_code": 47,
+    "name": "MANGALKOT"
+  },
+  {
+    "geo_code": 57,
+    "name": "PANJIA"
+  },
+  {
+    "geo_code": 66,
+    "name": "SAGARDARI"
+  },
+  {
+    "geo_code": 71,
+    "name": "SATBARIA"
+  },
+  {
+    "geo_code": 76,
+    "name": "SUFALAKATI"
+  },
+  {
+    "geo_code": 85,
+    "name": "TRIMOHINI"
+  },
+  {
+    "geo_code": 10,
+    "name": "ARABPUR"
+  },
+  {
+    "geo_code": 11,
+    "name": "BASUNDIA"
+  },
+  {
+    "geo_code": 23,
+    "name": "CHANCHRA"
+  },
+  {
+    "geo_code": 29,
+    "name": "CHURAMANKATI"
+  },
+  {
+    "geo_code": 35,
+    "name": "DIARA"
+  },
+  {
+    "geo_code": 41,
+    "name": "FATHEHPUR"
+  },
+  {
+    "geo_code": 47,
+    "name": "HAIBATPUR"
+  },
+  {
+    "geo_code": 53,
+    "name": "ICHHALI"
+  },
+  {
+    "geo_code": 65,
+    "name": "KASHIMPUR"
+  },
+  {
+    "geo_code": 71,
+    "name": "KACHUA"
+  },
+  {
+    "geo_code": 77,
+    "name": "LEBUTALA"
+  },
+  {
+    "geo_code": 83,
+    "name": "NARENDRAPUR"
+  },
+  {
+    "geo_code": 89,
+    "name": "NOAPARA"
+  },
+  {
+    "geo_code": 92,
+    "name": "RAMNAGAR"
+  },
+  {
+    "geo_code": 95,
+    "name": "UPASAHAR"
+  },
+  {
+    "geo_code": 98,
+    "name": "JESSORE CANTONMENT"
+  },
+  {
+    "geo_code": 10,
+    "name": "BHOJGATI"
+  },
+  {
+    "geo_code": 11,
+    "name": "CHALUAHATI"
+  },
+  {
+    "geo_code": 16,
+    "name": "DHAKURIA"
+  },
+  {
+    "geo_code": 22,
+    "name": "DURBADANGA"
+  },
+  {
+    "geo_code": 27,
+    "name": "HARIDASKATI"
+  },
+  {
+    "geo_code": 33,
+    "name": "HARIHARNAGAR"
+  },
+  {
+    "geo_code": 39,
+    "name": "JHANPA"
+  },
+  {
+    "geo_code": 44,
+    "name": "KASHIMNAGAR"
+  },
+  {
+    "geo_code": 50,
+    "name": "KHANPUR"
+  },
+  {
+    "geo_code": 55,
+    "name": "KHEDA PARA"
+  },
+  {
+    "geo_code": 61,
+    "name": "KULTIA"
+  },
+  {
+    "geo_code": 67,
+    "name": "MANIRAMPUR"
+  },
+  {
+    "geo_code": 72,
+    "name": "MANOHARPUR"
+  },
+  {
+    "geo_code": 78,
+    "name": "MASWIMNAGAR"
+  },
+  {
+    "geo_code": 83,
+    "name": "NEHALPUR"
+  },
+  {
+    "geo_code": 89,
+    "name": "ROHITA"
+  },
+  {
+    "geo_code": 94,
+    "name": "SHYAMKUR"
+  },
+  {
+    "geo_code": 13,
+    "name": "BAGACHRA"
+  },
+  {
+    "geo_code": 17,
+    "name": "BAHADURPUR"
+  },
+  {
+    "geo_code": 25,
+    "name": "BENAPOLE"
+  },
+  {
+    "geo_code": 34,
+    "name": "DIHI"
+  },
+  {
+    "geo_code": 43,
+    "name": "GOGA"
+  },
+  {
+    "geo_code": 51,
+    "name": "KAYBA"
+  },
+  {
+    "geo_code": 60,
+    "name": "LAKSHMANPUR"
+  },
+  {
+    "geo_code": 69,
+    "name": "NIZAMPUR"
+  },
+  {
+    "geo_code": 77,
+    "name": "PUTKHALI"
+  },
+  {
+    "geo_code": 86,
+    "name": "SHARSHA"
+  },
+  {
+    "geo_code": 94,
+    "name": "ULASHI"
+  },
+  {
+    "geo_code": 10,
+    "name": "BHAYNA"
+  },
+  {
+    "geo_code": 21,
+    "name": "CHANDPUR"
+  },
+  {
+    "geo_code": 31,
+    "name": "DAULATPUR"
+  },
+  {
+    "geo_code": 42,
+    "name": "PHALSI"
+  },
+  {
+    "geo_code": 52,
+    "name": "JORADAHA"
+  },
+  {
+    "geo_code": 63,
+    "name": "KAPASHATI"
+  },
+  {
+    "geo_code": 73,
+    "name": "RAGHUNATHPUR"
+  },
+  {
+    "geo_code": 84,
+    "name": "TAHERHUDA"
+  },
+  {
+    "geo_code": 11,
+    "name": "DOGACHHI"
+  },
+  {
+    "geo_code": 13,
+    "name": "FURSANDI"
+  },
+  {
+    "geo_code": 15,
+    "name": "GANNA"
+  },
+  {
+    "geo_code": 21,
+    "name": "GHORSHAL"
+  },
+  {
+    "geo_code": 26,
+    "name": "HALIDHANI"
+  },
+  {
+    "geo_code": 31,
+    "name": "HARISHANKARPUR"
+  },
+  {
+    "geo_code": 42,
+    "name": "KALICHARANPUR"
+  },
+  {
+    "geo_code": 47,
+    "name": "KUMRABARIA"
+  },
+  {
+    "geo_code": 52,
+    "name": "MADHUHATI"
+  },
+  {
+    "geo_code": 58,
+    "name": "MOHARAJPUR"
+  },
+  {
+    "geo_code": 63,
+    "name": "NALDANGA"
+  },
+  {
+    "geo_code": 68,
+    "name": "PADMAKAR"
+  },
+  {
+    "geo_code": 73,
+    "name": "PAGLAKANAI"
+  },
+  {
+    "geo_code": 79,
+    "name": "PORAHATI"
+  },
+  {
+    "geo_code": 84,
+    "name": "SAGANNA"
+  },
+  {
+    "geo_code": 89,
+    "name": "SADHUHATI"
+  },
+  {
+    "geo_code": 94,
+    "name": "SURAT"
+  },
+  {
+    "geo_code": 10,
+    "name": "BARA BAZAR"
+  },
+  {
+    "geo_code": 20,
+    "name": "JAMAL"
+  },
+  {
+    "geo_code": 33,
+    "name": "SUNDARPUR DURGAPUR"
+  },
+  {
+    "geo_code": 40,
+    "name": "KASHTABHANGA"
+  },
+  {
+    "geo_code": 47,
+    "name": "KOLA"
+  },
+  {
+    "geo_code": 54,
+    "name": "MALIAT"
+  },
+  {
+    "geo_code": 61,
+    "name": "NIAMATPUR"
+  },
+  {
+    "geo_code": 74,
+    "name": "ROYGRAM"
+  },
+  {
+    "geo_code": 81,
+    "name": "RAKHALGACHHI"
+  },
+  {
+    "geo_code": 88,
+    "name": "SIMLA ROKONPUR"
+  },
+  {
+    "geo_code": 94,
+    "name": "TRILOCHANPUR"
+  },
+  {
+    "geo_code": 13,
+    "name": "BALUHAR"
+  },
+  {
+    "geo_code": 27,
+    "name": "DORA"
+  },
+  {
+    "geo_code": 40,
+    "name": "ELANGI"
+  },
+  {
+    "geo_code": 67,
+    "name": "KUSHNA"
+  },
+  {
+    "geo_code": 81,
+    "name": "SABDALPUR"
+  },
+  {
+    "geo_code": 10,
+    "name": "AZAMPUR"
+  },
+  {
+    "geo_code": 11,
+    "name": "BANSHBARIA"
+  },
+  {
+    "geo_code": 17,
+    "name": "FATEHPUR"
+  },
+  {
+    "geo_code": 23,
+    "name": "JADABPUR"
+  },
+  {
+    "geo_code": 29,
+    "name": "KAZIRBER"
+  },
+  {
+    "geo_code": 35,
+    "name": "MANDERBARI"
+  },
+  {
+    "geo_code": 53,
+    "name": "NATIMA"
+  },
+  {
+    "geo_code": 59,
+    "name": "NEPA"
+  },
+  {
+    "geo_code": 65,
+    "name": "PANTHA PARA"
+  },
+  {
+    "geo_code": 77,
+    "name": "SHYAMKUR"
+  },
+  {
+    "geo_code": 83,
+    "name": "S.K.B."
+  },
+  {
+    "geo_code": 89,
+    "name": "SWARUPPUR"
+  },
+  {
+    "geo_code": 10,
+    "name": "ABAIPUR"
+  },
+  {
+    "geo_code": 12,
+    "name": "BAGURA"
+  },
+  {
+    "geo_code": 18,
+    "name": "DHALHARA CHANDRA"
+  },
+  {
+    "geo_code": 25,
+    "name": "DIGNAGAR"
+  },
+  {
+    "geo_code": 31,
+    "name": "DUDHSAR"
+  },
+  {
+    "geo_code": 37,
+    "name": "MANOHARPUR"
+  },
+  {
+    "geo_code": 44,
+    "name": "FULHARI"
+  },
+  {
+    "geo_code": 50,
+    "name": "HAKIMPUR"
+  },
+  {
+    "geo_code": 56,
+    "name": "KANCHERKOL"
+  },
+  {
+    "geo_code": 63,
+    "name": "MIRZAPUR"
+  },
+  {
+    "geo_code": 69,
+    "name": "NITYANANDAPUR"
+  },
+  {
+    "geo_code": 75,
+    "name": "SARUTIA"
+  },
+  {
+    "geo_code": 88,
+    "name": "TRIBENI"
+  },
+  {
+    "geo_code": 94,
+    "name": "UMEDPUR"
+  },
+  {
+    "geo_code": 11,
+    "name": "AMIRPUR"
+  },
+  {
+    "geo_code": 23,
+    "name": "BALIADANGA"
+  },
+  {
+    "geo_code": 35,
+    "name": "BATIAGHATA"
+  },
+  {
+    "geo_code": 47,
+    "name": "BHANDERKOTE"
+  },
+  {
+    "geo_code": 59,
+    "name": "GANGARAMPUR"
+  },
+  {
+    "geo_code": 71,
+    "name": "JALMA"
+  },
+  {
+    "geo_code": 83,
+    "name": "SURKHALI"
+  },
+  {
+    "geo_code": 10,
+    "name": "BAJUA"
+  },
+  {
+    "geo_code": 13,
+    "name": "BANISHANTA"
+  },
+  {
+    "geo_code": 21,
+    "name": "LAUDUBI"
+  },
+  {
+    "geo_code": 42,
+    "name": "DACOPE"
+  },
+  {
+    "geo_code": 52,
+    "name": "KAILASGANJ"
+  },
+  {
+    "geo_code": 63,
+    "name": "KAMARKHOLA"
+  },
+  {
+    "geo_code": 69,
+    "name": "PANKHALI"
+  },
+  {
+    "geo_code": 73,
+    "name": "SUTARKHALI"
+  },
+  {
+    "geo_code": 84,
+    "name": "TILDANGA"
+  },
+  {
+    "geo_code": 97,
+    "name": "KHULNA RANGE"
+  },
+  {
+    "geo_code": 10,
+    "name": "ARANGHATA"
+  },
+  {
+    "geo_code": 11,
+    "name": "ATLIA UNION"
+  },
+  {
+    "geo_code": 13,
+    "name": "BHANDAR PARA"
+  },
+  {
+    "geo_code": 20,
+    "name": "DHAMALIA"
+  },
+  {
+    "geo_code": 27,
+    "name": "DUMURIA"
+  },
+  {
+    "geo_code": 33,
+    "name": "GUTUDIA"
+  },
+  {
+    "geo_code": 40,
+    "name": "KHARNIA"
+  },
+  {
+    "geo_code": 47,
+    "name": "MAGURKHALI"
+  },
+  {
+    "geo_code": 54,
+    "name": "MAGURAGHONA"
+  },
+  {
+    "geo_code": 61,
+    "name": "RAGHUNATHPUR"
+  },
+  {
+    "geo_code": 67,
+    "name": "RANGPUR"
+  },
+  {
+    "geo_code": 74,
+    "name": "RUDAGHARA"
+  },
+  {
+    "geo_code": 81,
+    "name": "SAHAS"
+  },
+  {
+    "geo_code": 88,
+    "name": "SARAPPUR"
+  },
+  {
+    "geo_code": 94,
+    "name": "SOBHANA"
+  },
+  {
+    "geo_code": 17,
+    "name": "BARAKPUR"
+  },
+  {
+    "geo_code": 57,
+    "name": "DIGHALIA"
+  },
+  {
+    "geo_code": 66,
+    "name": "GAZIR HAT"
+  },
+  {
+    "geo_code": 85,
+    "name": "SENHATI"
+  },
+  {
+    "geo_code": 19,
+    "name": "ATRA GILATALA"
+  },
+  {
+    "geo_code": 75,
+    "name": "JUGIPOLE"
+  },
+  {
+    "geo_code": 98,
+    "name": "GILATALA CANTT."
+  },
+  {
+    "geo_code": 10,
+    "name": "AMADI"
+  },
+  {
+    "geo_code": 11,
+    "name": "BAGALI"
+  },
+  {
+    "geo_code": 22,
+    "name": "DAKSHIN BEDKASHI"
+  },
+  {
+    "geo_code": 55,
+    "name": "KOYRA"
+  },
+  {
+    "geo_code": 72,
+    "name": "MAHARAJPUR"
+  },
+  {
+    "geo_code": 78,
+    "name": "MAHESHWARIPUR"
+  },
+  {
+    "geo_code": 94,
+    "name": "UTTAR BEDKASHI"
+  },
+  {
+    "geo_code": 16,
+    "name": "CHANDKHALI"
+  },
+  {
+    "geo_code": 27,
+    "name": "DELUTI"
+  },
+  {
+    "geo_code": 33,
+    "name": "GADAIPUR"
+  },
+  {
+    "geo_code": 39,
+    "name": "GARUIKHALI"
+  },
+  {
+    "geo_code": 44,
+    "name": "HARIDHALI"
+  },
+  {
+    "geo_code": 50,
+    "name": "KAPILMUNI"
+  },
+  {
+    "geo_code": 61,
+    "name": "LASKAR"
+  },
+  {
+    "geo_code": 67,
+    "name": "LATA"
+  },
+  {
+    "geo_code": 83,
+    "name": "RARULI"
+  },
+  {
+    "geo_code": 89,
+    "name": "SHOLADANA"
+  },
+  {
+    "geo_code": 38,
+    "name": "DAMODAR"
+  },
+  {
+    "geo_code": 57,
+    "name": "JAMIRA"
+  },
+  {
+    "geo_code": 76,
+    "name": "PHULTALA"
+  },
+  {
+    "geo_code": 13,
+    "name": "AIJGANTI"
+  },
+  {
+    "geo_code": 27,
+    "name": "GHATBHOGH"
+  },
+  {
+    "geo_code": 54,
+    "name": "NAIHATI"
+  },
+  {
+    "geo_code": 67,
+    "name": "SREEFALTALA"
+  },
+  {
+    "geo_code": 81,
+    "name": "T. S. BAHIRDIA"
+  },
+  {
+    "geo_code": 13,
+    "name": "AJUGARA"
+  },
+  {
+    "geo_code": 27,
+    "name": "BARASAT"
+  },
+  {
+    "geo_code": 40,
+    "name": "MADHUPUR"
+  },
+  {
+    "geo_code": 54,
+    "name": "SACHIADAH"
+  },
+  {
+    "geo_code": 67,
+    "name": "SAGLADAH"
+  },
+  {
+    "geo_code": 81,
+    "name": "TEROKHADA"
+  },
+  {
+    "geo_code": 13,
+    "name": "BAHADURPUR"
+  },
+  {
+    "geo_code": 27,
+    "name": "BAHIR CHAR"
+  },
+  {
+    "geo_code": 40,
+    "name": "CHANDGRAM"
+  },
+  {
+    "geo_code": 54,
+    "name": "DHARAMPUR"
+  },
+  {
+    "geo_code": 67,
+    "name": "JUNIADAHA"
+  },
+  {
+    "geo_code": 81,
+    "name": "MOKARIMPUR"
+  },
+  {
+    "geo_code": 11,
+    "name": "ADABARIA"
+  },
+  {
+    "geo_code": 13,
+    "name": "ARIA"
+  },
+  {
+    "geo_code": 20,
+    "name": "BOALIA"
+  },
+  {
+    "geo_code": 27,
+    "name": "CHILMARI"
+  },
+  {
+    "geo_code": 33,
+    "name": "DAULATPUR"
+  },
+  {
+    "geo_code": 40,
+    "name": "HOGALBARIA"
+  },
+  {
+    "geo_code": 47,
+    "name": "KHALISHAKUNDI"
+  },
+  {
+    "geo_code": 54,
+    "name": "MARICHA"
+  },
+  {
+    "geo_code": 61,
+    "name": "MATHURAPUR"
+  },
+  {
+    "geo_code": 67,
+    "name": "PEARPUR"
+  },
+  {
+    "geo_code": 74,
+    "name": "PHILIPNAGAR"
+  },
+  {
+    "geo_code": 81,
+    "name": "PRAYAGPUR"
+  },
+  {
+    "geo_code": 88,
+    "name": "RAMKRISHNAPUR"
+  },
+  {
+    "geo_code": 94,
+    "name": "REFAYETPUR"
+  },
+  {
+    "geo_code": 17,
+    "name": "AMBARIA"
+  },
+  {
+    "geo_code": 25,
+    "name": "BETBARIA"
+  },
+  {
+    "geo_code": 31,
+    "name": "GOPAGRAM"
+  },
+  {
+    "geo_code": 37,
+    "name": "JANIPUR"
+  },
+  {
+    "geo_code": 43,
+    "name": "JAYANTI HAJRA"
+  },
+  {
+    "geo_code": 47,
+    "name": "KHOKSA"
+  },
+  {
+    "geo_code": 57,
+    "name": "OSMANPUR"
+  },
+  {
+    "geo_code": 71,
+    "name": "SAMASPUR"
+  },
+  {
+    "geo_code": 77,
+    "name": "SHIMULIA"
+  },
+  {
+    "geo_code": 16,
+    "name": "BAGULAT"
+  },
+  {
+    "geo_code": 17,
+    "name": "CHANDPUR"
+  },
+  {
+    "geo_code": 25,
+    "name": "CHAPRA"
+  },
+  {
+    "geo_code": 34,
+    "name": "JADU BOYRA"
+  },
+  {
+    "geo_code": 43,
+    "name": "JAGANNATHPUR"
+  },
+  {
+    "geo_code": 51,
+    "name": "KAYA"
+  },
+  {
+    "geo_code": 69,
+    "name": "NANDALALPUR"
+  },
+  {
+    "geo_code": 77,
+    "name": "PANTI"
+  },
+  {
+    "geo_code": 86,
+    "name": "SADAKI"
+  },
+  {
+    "geo_code": 90,
+    "name": "SADIPUR"
+  },
+  {
+    "geo_code": 94,
+    "name": "SHELAIDAHA"
+  },
+  {
+    "geo_code": 16,
+    "name": "ABDULPUR"
+  },
+  {
+    "geo_code": 17,
+    "name": "AILCHARA"
+  },
+  {
+    "geo_code": 18,
+    "name": "ALAMPUR"
+  },
+  {
+    "geo_code": 25,
+    "name": "BARAKHADA"
+  },
+  {
+    "geo_code": 31,
+    "name": "GOSIND DURGAPUR"
+  },
+  {
+    "geo_code": 37,
+    "name": "HARINARAYANPUR"
+  },
+  {
+    "geo_code": 44,
+    "name": "HATAS HARIPUR"
+  },
+  {
+    "geo_code": 50,
+    "name": "JAGATI"
+  },
+  {
+    "geo_code": 56,
+    "name": "JIARAKHI"
+  },
+  {
+    "geo_code": 63,
+    "name": "JHAUDIA"
+  },
+  {
+    "geo_code": 75,
+    "name": "MAZAMPUR"
+  },
+  {
+    "geo_code": 82,
+    "name": "MANOHARDIA"
+  },
+  {
+    "geo_code": 88,
+    "name": "PAITKABARI"
+  },
+  {
+    "geo_code": 94,
+    "name": "UJANGRAM"
+  },
+  {
+    "geo_code": 13,
+    "name": "AMBARIA"
+  },
+  {
+    "geo_code": 14,
+    "name": "AMLA"
+  },
+  {
+    "geo_code": 21,
+    "name": "BAHALBARIA"
+  },
+  {
+    "geo_code": 29,
+    "name": "BARUI PARA"
+  },
+  {
+    "geo_code": 36,
+    "name": "CHHATIAN"
+  },
+  {
+    "geo_code": 43,
+    "name": "CHITHULIA"
+  },
+  {
+    "geo_code": 50,
+    "name": "DUBAIL"
+  },
+  {
+    "geo_code": 58,
+    "name": "KURSHA"
+  },
+  {
+    "geo_code": 65,
+    "name": "MALIHAD"
+  },
+  {
+    "geo_code": 73,
+    "name": "FULBARIA"
+  },
+  {
+    "geo_code": 80,
+    "name": "PORADAHA"
+  },
+  {
+    "geo_code": 87,
+    "name": "SARDARPUR"
+  },
+  {
+    "geo_code": 94,
+    "name": "TALBARIA"
+  },
+  {
+    "geo_code": 21,
+    "name": "ATHARAKHADA"
+  },
+  {
+    "geo_code": 23,
+    "name": "BIRAIL PALITA"
+  },
+  {
+    "geo_code": 25,
+    "name": "BAGIA"
+  },
+  {
+    "geo_code": 27,
+    "name": "CHAULIA"
+  },
+  {
+    "geo_code": 33,
+    "name": "GOPALGRAM"
+  },
+  {
+    "geo_code": 40,
+    "name": "HAZIPUR"
+  },
+  {
+    "geo_code": 47,
+    "name": "HAZRAPUR"
+  },
+  {
+    "geo_code": 54,
+    "name": "JAGDAL"
+  },
+  {
+    "geo_code": 61,
+    "name": "KASUNDI"
+  },
+  {
+    "geo_code": 67,
+    "name": "KUCHIAMORA"
+  },
+  {
+    "geo_code": 74,
+    "name": "MAGHI"
+  },
+  {
+    "geo_code": 88,
+    "name": "RAGHAB DAIR"
+  },
+  {
+    "geo_code": 94,
+    "name": "SATRUJITPUR"
+  },
+  {
+    "geo_code": 10,
+    "name": "BABUKHALI"
+  },
+  {
+    "geo_code": 21,
+    "name": "BALIDIA"
+  },
+  {
+    "geo_code": 31,
+    "name": "BINODEPUR"
+  },
+  {
+    "geo_code": 42,
+    "name": "DIGHA"
+  },
+  {
+    "geo_code": 52,
+    "name": "MOHAMMADPUR"
+  },
+  {
+    "geo_code": 63,
+    "name": "NAHATA"
+  },
+  {
+    "geo_code": 73,
+    "name": "PALASHBARIA"
+  },
+  {
+    "geo_code": 84,
+    "name": "RAJAPUR"
+  },
+  {
+    "geo_code": 11,
+    "name": "ARPARA"
+  },
+  {
+    "geo_code": 23,
+    "name": "BUNAGATI"
+  },
+  {
+    "geo_code": 35,
+    "name": "DHANESHWARGATI"
+  },
+  {
+    "geo_code": 47,
+    "name": "GANGARAMPUR"
+  },
+  {
+    "geo_code": 59,
+    "name": "SHALIKHA"
+  },
+  {
+    "geo_code": 71,
+    "name": "SHATAKHALI"
+  },
+  {
+    "geo_code": 83,
+    "name": "TALKHARI"
+  },
+  {
+    "geo_code": 10,
+    "name": "AMALSAR"
+  },
+  {
+    "geo_code": 21,
+    "name": "DARIAPUR"
+  },
+  {
+    "geo_code": 31,
+    "name": "GAYESHPUR"
+  },
+  {
+    "geo_code": 42,
+    "name": "KADIR PARA"
+  },
+  {
+    "geo_code": 52,
+    "name": "NAKOL"
+  },
+  {
+    "geo_code": 63,
+    "name": "SABDALPUR"
+  },
+  {
+    "geo_code": 73,
+    "name": "SREEKOL"
+  },
+  {
+    "geo_code": 84,
+    "name": "SREEPUR"
+  },
+  {
+    "geo_code": 10,
+    "name": "BAMANDI"
+  },
+  {
+    "geo_code": 21,
+    "name": "DHANKHOLA"
+  },
+  {
+    "geo_code": 42,
+    "name": "KATHULI"
+  },
+  {
+    "geo_code": 52,
+    "name": "KAZIPUR"
+  },
+  {
+    "geo_code": 63,
+    "name": "MATMURA"
+  },
+  {
+    "geo_code": 69,
+    "name": "ROYPUR"
+  },
+  {
+    "geo_code": 73,
+    "name": "SHAHARBATI"
+  },
+  {
+    "geo_code": 84,
+    "name": "SHOLA TAKA"
+  },
+  {
+    "geo_code": 94,
+    "name": "TENTULBARIA"
+  },
+  {
+    "geo_code": 28,
+    "name": "BAGOAN"
+  },
+  {
+    "geo_code": 47,
+    "name": "DARIAPUR"
+  },
+  {
+    "geo_code": 76,
+    "name": "MAHAJANPUR"
+  },
+  {
+    "geo_code": 85,
+    "name": "MONAKHALI"
+  },
+  {
+    "geo_code": 14,
+    "name": "AMDA"
+  },
+  {
+    "geo_code": 19,
+    "name": "AMJHUPI"
+  },
+  {
+    "geo_code": 38,
+    "name": "BURIPOTA"
+  },
+  {
+    "geo_code": 57,
+    "name": "KUTUBPUR"
+  },
+  {
+    "geo_code": 95,
+    "name": "PIROJPUR"
+  },
+  {
+    "geo_code": 13,
+    "name": "BABRA HACHLA"
+  },
+  {
+    "geo_code": 14,
+    "name": "BORANAL ELIASABAD"
+  },
+  {
+    "geo_code": 15,
+    "name": "BAUISENA"
+  },
+  {
+    "geo_code": 23,
+    "name": "HAMIDPUR"
+  },
+  {
+    "geo_code": 31,
+    "name": "CHANCHARI"
+  },
+  {
+    "geo_code": 39,
+    "name": "JOYNAGAR"
+  },
+  {
+    "geo_code": 47,
+    "name": "KALABARIA"
+  },
+  {
+    "geo_code": 63,
+    "name": "KHASIAL"
+  },
+  {
+    "geo_code": 71,
+    "name": "MAULI"
+  },
+  {
+    "geo_code": 79,
+    "name": "PAHARDANGA"
+  },
+  {
+    "geo_code": 83,
+    "name": "PATCHGRAM"
+  },
+  {
+    "geo_code": 87,
+    "name": "PERULI"
+  },
+  {
+    "geo_code": 94,
+    "name": "PURULIA"
+  },
+  {
+    "geo_code": 95,
+    "name": "SALAMABAD"
+  },
+  {
+    "geo_code": 15,
+    "name": "DIGHALIA"
+  },
+  {
+    "geo_code": 18,
+    "name": "ITNA"
+  },
+  {
+    "geo_code": 23,
+    "name": "JOYPUR"
+  },
+  {
+    "geo_code": 31,
+    "name": "KASHIPUR"
+  },
+  {
+    "geo_code": 39,
+    "name": "KOTAKUL"
+  },
+  {
+    "geo_code": 47,
+    "name": "LAHURIA"
+  },
+  {
+    "geo_code": 55,
+    "name": "LAKSHMIPASHA"
+  },
+  {
+    "geo_code": 63,
+    "name": "LOHAGARA"
+  },
+  {
+    "geo_code": 71,
+    "name": "MALLIKPUR"
+  },
+  {
+    "geo_code": 79,
+    "name": "NALDI"
+  },
+  {
+    "geo_code": 87,
+    "name": "NOAGRAM"
+  },
+  {
+    "geo_code": 94,
+    "name": "SHALNAGAR"
+  },
+  {
+    "geo_code": 11,
+    "name": "AURIA"
+  },
+  {
+    "geo_code": 13,
+    "name": "BANSHGRAM"
+  },
+  {
+    "geo_code": 20,
+    "name": "BHADRABILA"
+  },
+  {
+    "geo_code": 27,
+    "name": "BICHHALI"
+  },
+  {
+    "geo_code": 33,
+    "name": "CHANDIBARPUR"
+  },
+  {
+    "geo_code": 40,
+    "name": "HABAKHALI"
+  },
+  {
+    "geo_code": 47,
+    "name": "KALORA"
+  },
+  {
+    "geo_code": 54,
+    "name": "MAIJ PARA"
+  },
+  {
+    "geo_code": 61,
+    "name": "MULIA"
+  },
+  {
+    "geo_code": 74,
+    "name": "SAHABAD"
+  },
+  {
+    "geo_code": 81,
+    "name": "SHAIKHATI"
+  },
+  {
+    "geo_code": 88,
+    "name": "SINGASOLPUR"
+  },
+  {
+    "geo_code": 94,
+    "name": "TULARAMPUR"
+  },
+  {
+    "geo_code": 15,
+    "name": "ANULIA"
+  },
+  {
+    "geo_code": 17,
+    "name": "ASSASUNI"
+  },
+  {
+    "geo_code": 25,
+    "name": "BARADAL"
+  },
+  {
+    "geo_code": 34,
+    "name": "BUDHHATA"
+  },
+  {
+    "geo_code": 43,
+    "name": "DURGAPUR"
+  },
+  {
+    "geo_code": 56,
+    "name": "KADAKATI"
+  },
+  {
+    "geo_code": 60,
+    "name": "KHAJRA"
+  },
+  {
+    "geo_code": 69,
+    "name": "KULLA"
+  },
+  {
+    "geo_code": 77,
+    "name": "PRATAP NAGAR"
+  },
+  {
+    "geo_code": 86,
+    "name": "SOBHNALI"
+  },
+  {
+    "geo_code": 94,
+    "name": "SREEULA"
+  },
+  {
+    "geo_code": 15,
+    "name": "DEBHATA"
+  },
+  {
+    "geo_code": 31,
+    "name": "KULIA"
+  },
+  {
+    "geo_code": 47,
+    "name": "NOAPARA"
+  },
+  {
+    "geo_code": 63,
+    "name": "PARULIA"
+  },
+  {
+    "geo_code": 79,
+    "name": "SAKHIPUR"
+  },
+  {
+    "geo_code": 13,
+    "name": "CHANDANPUR"
+  },
+  {
+    "geo_code": 15,
+    "name": "DIARA"
+  },
+  {
+    "geo_code": 23,
+    "name": "LANGALJHARA"
+  },
+  {
+    "geo_code": 31,
+    "name": "HELATALA"
+  },
+  {
+    "geo_code": 39,
+    "name": "JALLABAD"
+  },
+  {
+    "geo_code": 47,
+    "name": "JOYNAGAR"
+  },
+  {
+    "geo_code": 55,
+    "name": "JOGIKHALI"
+  },
+  {
+    "geo_code": 63,
+    "name": "KERAGACHHI"
+  },
+  {
+    "geo_code": 71,
+    "name": "KERALKATA"
+  },
+  {
+    "geo_code": 79,
+    "name": "KUSHADANGA"
+  },
+  {
+    "geo_code": 87,
+    "name": "KAILA"
+  },
+  {
+    "geo_code": 94,
+    "name": "SONABARIA"
+  },
+  {
+    "geo_code": 13,
+    "name": "BHARA SIMLA"
+  },
+  {
+    "geo_code": 15,
+    "name": "BISHNUPUR"
+  },
+  {
+    "geo_code": 23,
+    "name": "CHAMPAPHUL"
+  },
+  {
+    "geo_code": 31,
+    "name": "DAKSHIN SREEPUR"
+  },
+  {
+    "geo_code": 39,
+    "name": "DHALBARIA"
+  },
+  {
+    "geo_code": 47,
+    "name": "KRISHNANAGAR"
+  },
+  {
+    "geo_code": 55,
+    "name": "KUSHLIA"
+  },
+  {
+    "geo_code": 63,
+    "name": "MATHURESHPUR"
+  },
+  {
+    "geo_code": 71,
+    "name": "MAUTALA"
+  },
+  {
+    "geo_code": 79,
+    "name": "NALTA"
+  },
+  {
+    "geo_code": 87,
+    "name": "RATANPUR"
+  },
+  {
+    "geo_code": 94,
+    "name": "TARALI"
+  },
+  {
+    "geo_code": 13,
+    "name": "AGARDARI"
+  },
+  {
+    "geo_code": 16,
+    "name": "ALIPUR"
+  },
+  {
+    "geo_code": 20,
+    "name": "BAIKARI"
+  },
+  {
+    "geo_code": 27,
+    "name": "BALLI"
+  },
+  {
+    "geo_code": 33,
+    "name": "BANSHDAHA"
+  },
+  {
+    "geo_code": 40,
+    "name": "BHOMRA"
+  },
+  {
+    "geo_code": 47,
+    "name": "BRAHMA RAJPUR"
+  },
+  {
+    "geo_code": 51,
+    "name": "FINGRI"
+  },
+  {
+    "geo_code": 54,
+    "name": "DHULIHAR"
+  },
+  {
+    "geo_code": 61,
+    "name": "GHONA"
+  },
+  {
+    "geo_code": 67,
+    "name": "JHAUDANGA"
+  },
+  {
+    "geo_code": 74,
+    "name": "KUSKHALI"
+  },
+  {
+    "geo_code": 81,
+    "name": "LABSA"
+  },
+  {
+    "geo_code": 94,
+    "name": "SHIBPUR"
+  },
+  {
+    "geo_code": 11,
+    "name": "ATULIA"
+  },
+  {
+    "geo_code": 15,
+    "name": "BHURULIA"
+  },
+  {
+    "geo_code": 23,
+    "name": "BURI GOALINI"
+  },
+  {
+    "geo_code": 31,
+    "name": "GABURA"
+  },
+  {
+    "geo_code": 39,
+    "name": "ISHWARIPUR"
+  },
+  {
+    "geo_code": 47,
+    "name": "KAIKHALI"
+  },
+  {
+    "geo_code": 55,
+    "name": "KASHIMARI"
+  },
+  {
+    "geo_code": 63,
+    "name": "MUNSHIGANJ"
+  },
+  {
+    "geo_code": 71,
+    "name": "NURNAGAR"
+  },
+  {
+    "geo_code": 79,
+    "name": "PADMA PUKUR"
+  },
+  {
+    "geo_code": 87,
+    "name": "RAMJAN NAGAR"
+  },
+  {
+    "geo_code": 94,
+    "name": "SHYAMNAGAR"
+  },
+  {
+    "geo_code": 97,
+    "name": "SATKHIRA RANGE (FLOATIN)"
+  },
+  {
+    "geo_code": 11,
+    "name": "DHANDIA"
+  },
+  {
+    "geo_code": 15,
+    "name": "ISLAMKATI"
+  },
+  {
+    "geo_code": 23,
+    "name": "JALALPUR"
+  },
+  {
+    "geo_code": 31,
+    "name": "KHALILNAGAR"
+  },
+  {
+    "geo_code": 39,
+    "name": "KHALISHKHALI"
+  },
+  {
+    "geo_code": 47,
+    "name": "KHESRA"
+  },
+  {
+    "geo_code": 55,
+    "name": "KUMIRA"
+  },
+  {
+    "geo_code": 63,
+    "name": "MAGURA"
+  },
+  {
+    "geo_code": 71,
+    "name": "NAGARGHATA"
+  },
+  {
+    "geo_code": "Union/ Ward",
+    "name": "Name"
+  },
+  {
+    "geo_code": 79,
+    "name": "SARULIA"
+  },
+  {
+    "geo_code": 87,
+    "name": "TALA"
+  },
+  {
+    "geo_code": 94,
+    "name": "TENTULIA"
+  }
+]

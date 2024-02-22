@@ -1,0 +1,386 @@
+[
+  {
+    "geo_code": 8,
+    "district_geo_code": 1,
+    "division_geo_code": 40,
+    "name": "BAGERHAT SADAR"
+  },
+  {
+    "geo_code": 14,
+    "district_geo_code": 1,
+    "division_geo_code": 40,
+    "name": "CHITALMARI"
+  },
+  {
+    "geo_code": 34,
+    "district_geo_code": 1,
+    "division_geo_code": 40,
+    "name": "FAKIRHAT"
+  },
+  {
+    "geo_code": 38,
+    "district_geo_code": 1,
+    "division_geo_code": 40,
+    "name": "KACHUA"
+  },
+  {
+    "geo_code": 56,
+    "district_geo_code": 1,
+    "division_geo_code": 40,
+    "name": "MOLLAHAT"
+  },
+  {
+    "geo_code": 58,
+    "district_geo_code": 1,
+    "division_geo_code": 40,
+    "name": "MONGLA"
+  },
+  {
+    "geo_code": 60,
+    "district_geo_code": 1,
+    "division_geo_code": 40,
+    "name": "MORRELGANJ"
+  },
+  {
+    "geo_code": 73,
+    "district_geo_code": 1,
+    "division_geo_code": 40,
+    "name": "RAMPAL"
+  },
+  {
+    "geo_code": 77,
+    "district_geo_code": 1,
+    "division_geo_code": 40,
+    "name": "SARANKHOLA"
+  },
+  {
+    "geo_code": 7,
+    "district_geo_code": 18,
+    "division_geo_code": 40,
+    "name": "ALAMDANGA"
+  },
+  {
+    "geo_code": 23,
+    "district_geo_code": 18,
+    "division_geo_code": 40,
+    "name": "CHUADANGA SADAR"
+  },
+  {
+    "geo_code": 31,
+    "district_geo_code": 18,
+    "division_geo_code": 40,
+    "name": "DAMURHUDA"
+  },
+  {
+    "geo_code": 55,
+    "district_geo_code": 18,
+    "division_geo_code": 40,
+    "name": "JIBAN NAGAR"
+  },
+  {
+    "geo_code": 4,
+    "district_geo_code": 41,
+    "division_geo_code": 40,
+    "name": "ABHAYNAGAR"
+  },
+  {
+    "geo_code": 9,
+    "district_geo_code": 41,
+    "division_geo_code": 40,
+    "name": "BAGHER PARA"
+  },
+  {
+    "geo_code": 11,
+    "district_geo_code": 41,
+    "division_geo_code": 40,
+    "name": "CHAUGACHHA"
+  },
+  {
+    "geo_code": 23,
+    "district_geo_code": 41,
+    "division_geo_code": 40,
+    "name": "JHIKARGACHHA"
+  },
+  {
+    "geo_code": 38,
+    "district_geo_code": 41,
+    "division_geo_code": 40,
+    "name": "KESHABPUR"
+  },
+  {
+    "geo_code": 47,
+    "district_geo_code": 41,
+    "division_geo_code": 40,
+    "name": "JESSORE SADAR"
+  },
+  {
+    "geo_code": 61,
+    "district_geo_code": 41,
+    "division_geo_code": 40,
+    "name": "MANIRAMPUR"
+  },
+  {
+    "geo_code": 90,
+    "district_geo_code": 41,
+    "division_geo_code": 40,
+    "name": "SHARSHA"
+  },
+  {
+    "geo_code": 14,
+    "district_geo_code": 44,
+    "division_geo_code": 40,
+    "name": "HARINAKUNDA"
+  },
+  {
+    "geo_code": 19,
+    "district_geo_code": 44,
+    "division_geo_code": 40,
+    "name": "JHENAIDAH SADAR"
+  },
+  {
+    "geo_code": 33,
+    "district_geo_code": 44,
+    "division_geo_code": 40,
+    "name": "KALIGANJ"
+  },
+  {
+    "geo_code": 42,
+    "district_geo_code": 44,
+    "division_geo_code": 40,
+    "name": "KOTCHANDPUR"
+  },
+  {
+    "geo_code": 71,
+    "district_geo_code": 44,
+    "division_geo_code": 40,
+    "name": "MAHESHPUR"
+  },
+  {
+    "geo_code": 80,
+    "district_geo_code": 44,
+    "division_geo_code": 40,
+    "name": "SHAILKUPA"
+  },
+  {
+    "geo_code": 12,
+    "district_geo_code": 47,
+    "division_geo_code": 40,
+    "name": "BATIAGHATA"
+  },
+  {
+    "geo_code": 17,
+    "district_geo_code": 47,
+    "division_geo_code": 40,
+    "name": "DACOPE"
+  },
+  {
+    "geo_code": 21,
+    "district_geo_code": 47,
+    "division_geo_code": 40,
+    "name": "DAULATPUR"
+  },
+  {
+    "geo_code": 30,
+    "district_geo_code": 47,
+    "division_geo_code": 40,
+    "name": "DUMURIA"
+  },
+  {
+    "geo_code": 40,
+    "district_geo_code": 47,
+    "division_geo_code": 40,
+    "name": "DIGHALIA"
+  },
+  {
+    "geo_code": 45,
+    "district_geo_code": 47,
+    "division_geo_code": 40,
+    "name": "KHALISHPUR"
+  },
+  {
+    "geo_code": 48,
+    "district_geo_code": 47,
+    "division_geo_code": 40,
+    "name": "KHAN JAHAN ALI"
+  },
+  {
+    "geo_code": 51,
+    "district_geo_code": 47,
+    "division_geo_code": 40,
+    "name": "KHULNA SADAR"
+  },
+  {
+    "geo_code": 53,
+    "district_geo_code": 47,
+    "division_geo_code": 40,
+    "name": "KOYRA"
+  },
+  {
+    "geo_code": 64,
+    "district_geo_code": 47,
+    "division_geo_code": 40,
+    "name": "PAIKGACHHA"
+  },
+  {
+    "geo_code": 69,
+    "district_geo_code": 47,
+    "division_geo_code": 40,
+    "name": "PHULTALA"
+  },
+  {
+    "geo_code": 75,
+    "district_geo_code": 47,
+    "division_geo_code": 40,
+    "name": "RUPSA"
+  },
+  {
+    "geo_code": 85,
+    "district_geo_code": 47,
+    "division_geo_code": 40,
+    "name": "SONADANGA"
+  },
+  {
+    "geo_code": 94,
+    "district_geo_code": 47,
+    "division_geo_code": 40,
+    "name": "TEROKHADA"
+  },
+  {
+    "geo_code": 15,
+    "district_geo_code": 50,
+    "division_geo_code": 40,
+    "name": "BHERAMARA"
+  },
+  {
+    "geo_code": 39,
+    "district_geo_code": 50,
+    "division_geo_code": 40,
+    "name": "DAULATPUR"
+  },
+  {
+    "geo_code": 63,
+    "district_geo_code": 50,
+    "division_geo_code": 40,
+    "name": "KHOKSA"
+  },
+  {
+    "geo_code": 71,
+    "district_geo_code": 50,
+    "division_geo_code": 40,
+    "name": "KUMARKHALI"
+  },
+  {
+    "geo_code": 79,
+    "district_geo_code": 50,
+    "division_geo_code": 40,
+    "name": "KUSHTIA SADAR"
+  },
+  {
+    "geo_code": 94,
+    "district_geo_code": 50,
+    "division_geo_code": 40,
+    "name": "MIRPUR"
+  },
+  {
+    "geo_code": 57,
+    "district_geo_code": 55,
+    "division_geo_code": 40,
+    "name": "MAGURA SADAR"
+  },
+  {
+    "geo_code": 66,
+    "district_geo_code": 55,
+    "division_geo_code": 40,
+    "name": "MOHAMMADPUR"
+  },
+  {
+    "geo_code": 85,
+    "district_geo_code": 55,
+    "division_geo_code": 40,
+    "name": "SHALIKHA"
+  },
+  {
+    "geo_code": 95,
+    "district_geo_code": 55,
+    "division_geo_code": 40,
+    "name": "SREEPUR"
+  },
+  {
+    "geo_code": 47,
+    "district_geo_code": 57,
+    "division_geo_code": 40,
+    "name": "GANGNI"
+  },
+  {
+    "geo_code": 60,
+    "district_geo_code": 57,
+    "division_geo_code": 40,
+    "name": "MUJIB NAGAR"
+  },
+  {
+    "geo_code": 87,
+    "district_geo_code": 57,
+    "division_geo_code": 40,
+    "name": "MEHERPUR SADAR"
+  },
+  {
+    "geo_code": 28,
+    "district_geo_code": 65,
+    "division_geo_code": 40,
+    "name": "KALIA"
+  },
+  {
+    "geo_code": 52,
+    "district_geo_code": 65,
+    "division_geo_code": 40,
+    "name": "LOHAGARA"
+  },
+  {
+    "geo_code": 76,
+    "district_geo_code": 65,
+    "division_geo_code": 40,
+    "name": "NARAIL SADAR"
+  },
+  {
+    "geo_code": 4,
+    "district_geo_code": 87,
+    "division_geo_code": 40,
+    "name": "ASSASUNI"
+  },
+  {
+    "geo_code": 25,
+    "district_geo_code": 87,
+    "division_geo_code": 40,
+    "name": "DEBHATA"
+  },
+  {
+    "geo_code": 43,
+    "district_geo_code": 87,
+    "division_geo_code": 40,
+    "name": "KALAROA"
+  },
+  {
+    "geo_code": 47,
+    "district_geo_code": 87,
+    "division_geo_code": 40,
+    "name": "KALIGANJ"
+  },
+  {
+    "geo_code": 82,
+    "district_geo_code": 87,
+    "division_geo_code": 40,
+    "name": "SATKHIRA SADAR"
+  },
+  {
+    "geo_code": 86,
+    "district_geo_code": 87,
+    "division_geo_code": 40,
+    "name": "SHYAMNAGAR"
+  },
+  {
+    "geo_code": 90,
+    "district_geo_code": 87,
+    "division_geo_code": 40,
+    "name": "TALA"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "type": "District",
+    "geo_code": 1,
+    "division_geo_code": 40,
+    "name": "BAGERHAT"
+  },
+  {
+    "type": "District",
+    "geo_code": 18,
+    "division_geo_code": 40,
+    "name": "CHUADANGA"
+  },
+  {
+    "type": "District",
+    "geo_code": 41,
+    "division_geo_code": 40,
+    "name": "JESSORE"
+  },
+  {
+    "type": "District",
+    "geo_code": 44,
+    "division_geo_code": 40,
+    "name": "JHENAIDAH"
+  },
+  {
+    "type": "District",
+    "geo_code": 47,
+    "division_geo_code": 40,
+    "name": "KHULNA"
+  },
+  {
+    "type": "District",
+    "geo_code": 50,
+    "division_geo_code": 40,
+    "name": "KUSHTIA"
+  },
+  {
+    "type": "District",
+    "geo_code": 55,
+    "division_geo_code": 40,
+    "name": "MAGURA"
+  },
+  {
+    "type": "District",
+    "geo_code": 57,
+    "division_geo_code": 40,
+    "name": "MEHERPUR"
+  },
+  {
+    "type": "District",
+    "geo_code": 65,
+    "division_geo_code": 40,
+    "name": "NARAIL"
+  },
+  {
+    "type": "District",
+    "geo_code": 87,
+    "division_geo_code": 40,
+    "name": "SATKHIRA"
+  }
+]
